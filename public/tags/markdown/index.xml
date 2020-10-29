@@ -9,6 +9,8 @@
     <pubDate>Tue, 27 Oct 2020 15:46:23 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://example.org/guide/</guid>
-    <description><![CDATA[Create site hugo new site xxx Wrtite article hugo new XXX/xxx.md Preview hugo server 本地预览 Deploy hugo 更新public git push 文件夹public下内容 Theme LoveIt Even Template]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo_basics/featured-image.png" referrerpolicy="no-referrer">
+            </div>Create site hugo new site xxx Wrtite article hugo new XXX/xxx.md Preview hugo server 本地预览 Deploy hugo 更新public git push 文件夹public下内容 Theme LoveIt folder 保持博客文章存放在 content/posts 目录，例如： content/p]]></description>
 </item></channel>
 </rss>

@@ -4,8 +4,11 @@ date: 2020-10-27T15:46:23+08:00
 draft: false
 author: "Losa"
 description: "Hugo基础操作 Markdown示例"
+featuredImage: "/hugo_basics/featured-image.png"
 tags: ["Markdown", "Hugo"]
 categories: ["Cookbook"]
+
+lightgallery: true
 ---
 
 ### Create site
@@ -27,8 +30,12 @@ categories: ["Cookbook"]
 
 ### Theme
 
-- LoveIt
-- Even
+#### LoveIt
+
+* folder
+  * 保持博客文章存放在 `content/posts` 目录，例如： `content/posts/我的第一篇文章.md`
+  * 保持简单的静态页面存放在 `content` 目录，例如： `content/about.md`
+  * 保持图片之类的媒体资源存放在 `static` 目录，例如： `static/images/2019/9/screenshot.png`
 
 ### Template
 

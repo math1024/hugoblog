@@ -3,12 +3,28 @@
         <title>所有文章 - Code&amp;Life</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | Code&amp;Life</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Oct 2020 15:46:23 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 28 Oct 2020 13:52:40 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Tools</title>
+    <link>http://example.org/tools/</link>
+    <pubDate>Wed, 28 Oct 2020 13:52:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/tools/</guid>
+    <description><![CDATA[icon 网站icon hugo theme LoveIt]]></description>
+</item><item>
     <title>Guide</title>
     <link>http://example.org/guide/</link>
     <pubDate>Tue, 27 Oct 2020 15:46:23 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://example.org/guide/</guid>
-    <description><![CDATA[Create site hugo new site xxx Wrtite article hugo new XXX/xxx.md Preview hugo server 本地预览 Deploy hugo 更新public git push 文件夹public下内容 Theme LoveIt Even Template]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/hugo_basics/featured-image.png" referrerpolicy="no-referrer">
+            </div>Create site hugo new site xxx Wrtite article hugo new XXX/xxx.md Preview hugo server 本地预览 Deploy hugo 更新public git push 文件夹public下内容 Theme LoveIt folder 保持博客文章存放在 content/posts 目录，例如： content/p]]></description>
+</item><item>
+    <title>Matrix</title>
+    <link>http://example.org/matrix/</link>
+    <pubDate>Wed, 10 Jul 2019 13:39:48 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/matrix/</guid>
+    <description><![CDATA[一起回忆下线性代数 斐波那契数列 矩阵主要概念 从斐波那契数列开始 通项公式 F(1)=1，F(2)=1, F(n)=F(n-1)+F(n-2) n&gt;=2，n∈N* 输出求数列前100]]></description>
 </item></channel>
 </rss>
