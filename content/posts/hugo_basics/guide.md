@@ -5,7 +5,7 @@ draft: false
 author: "Losa"
 description: "Hugo基础操作 主题配置"
 featuredImage: "/hugo_basics/featured-image.png"
-tags: ["Markdown", "Hugo"]
+tags: ["markdown", "hugo"]
 categories: ["Cookbook"]
 lightgallery: true
 ---
@@ -46,7 +46,11 @@ lightgallery: true
   * 如果文章前置参数中有摘要变量, 那么将以该值作为摘要.
   * 按照自动摘要拆分方法.
 
-### Template
+### Auto Deploy
+
+#### Caddy
+
+* install:  yum install caddy -y
 
 
 
