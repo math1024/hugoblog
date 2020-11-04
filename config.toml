@@ -112,7 +112,7 @@ enableEmoji = true
         tileColor = "#da532c"
       # 搜索配置
       [languages.zh-cn.params.search]
-        enable = true
+        enable = false
         # 搜索引擎的类型 ("lunr", "algolia")
         type = "algolia"
         # 文章内容最长索引长度
@@ -568,7 +568,7 @@ enableEmoji = true
     cursorChar = "|"
     # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
     # 打字结束之后光标的持续时间 (单位是毫秒, "-1" 代表无限大)
-    duration = -1
+    duration = 1000
 
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
